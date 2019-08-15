@@ -1,3 +1,5 @@
+You must run DataBase.py before everything
+
 The purpose of this project is  to scrap any prize from google shopping page
 
 Using Selenium and Beautifulsoup to trigger the dynamic websites page and retrieve the datas
